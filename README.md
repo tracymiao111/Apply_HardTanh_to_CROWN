@@ -4,7 +4,7 @@
 This project is for Project 3 of course MICS-5510 in HKUST,GZ. In this work, CROWN and optimizations inspired from alpha CROWN for HardTanh are applied. It is supposed to be noted that this work is extended from a coding problem of UIUC ECE-584 lectured by Prof. Huan Zhang.
 
 **Structure:**
-
+```plaintext
 
 ├── README.md
 ├── __pycache__

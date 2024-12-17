@@ -5,7 +5,7 @@ This project is for Project 3 of course MICS-5510 in HKUST,GZ. In this work, CRO
 
 **Structure:**
 
-```plaintext
+
 ├── README.md
 ├── __pycache__
 │   ├── hardTanh_question.cpython-39.pyc

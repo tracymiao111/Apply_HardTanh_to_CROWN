@@ -29,7 +29,7 @@ This project is for Project 3 of course MICS-5510 in HKUST,GZ. In this work, CRO
 ├── relu.py
 └── visualize_results.py
 
-**Command to play with it:**
+## Command to play with it:
 
 Run CROWN:
 ```bash

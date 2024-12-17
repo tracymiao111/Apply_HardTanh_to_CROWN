@@ -1,7 +1,7 @@
 # Apply_HardTanh_to_CROWN
 
 **Abstract:**
-This project is for Project 3 of course MICS-5510 in HKUST,GZ. In this work, CROWN and optimizations inspired from alpha CROWN for HardTanh is applied. It is supposed to be noted that this work is extended from a coding problem of UIUC ECE-584 lectured by Prof. Huan Zhang.
+This project is for Project 3 of course MICS-5510 in HKUST,GZ. In this work, CROWN and optimizations inspired from alpha CROWN for HardTanh are applied. It is supposed to be noted that this work is extended from a coding problem of UIUC ECE-584 lectured by Prof. Huan Zhang.
 
 **Structure:**
 
@@ -30,4 +30,10 @@ This project is for Project 3 of course MICS-5510 in HKUST,GZ. In this work, CRO
 └── visualize_results.py
 
 **Command to play with it:**
-Run CROWN: python crown.py  -a hardtanh data1.pth --optimize(optional) 
+
+Run CROWN:
+```bash
+python crown.py -a hardtanh data1.pth --optimize(optional)  # For HardTanh
+python crown.py -a relu data1.pth --optimize(optional)      # For ReLU
+
+
